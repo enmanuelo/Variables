@@ -1,0 +1,14 @@
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/bin/Debug/netcoreapp3.1/Variables
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.AssemblyReference.cache
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/enmanueldiaz/Desktop/repos/Variables/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
